@@ -1,902 +1,902 @@
 [
- {
-  "Rank": 1,
-  "Movie Title": "His House",
-  "Year": 2020,
-  "Score": 100,
-  "Director": "Remi Weekes",
-  "Cast": "Wunmi Mosaku, Sope Dirisu, Matt Smith, Cornell John",
-  "Critics Consensus": "Featuring genuine scares through every corridor, His House is a terrifying look at the specters of the refugee experience and a stunning feature debut for Remi Weekes."
- },
- {
-  "Rank": 2,
-  "Movie Title": "How to Train Your Dragon",
-  "Year": 2010,
-  "Score": 99,
-  "Director": "Christopher Sanders",
-  "Cast": "Jay Baruchel, Gerard Butler, America Ferrera, Jonah Hill",
-  "Critics Consensus": "Boasting dazzling animation, a script with surprising dramatic depth, and thrilling 3-D sequences, How to Train Your Dragon soars."
- },
- {
-  "Rank": 3,
-  "Movie Title": "The Forty-Year-Old Version",
-  "Year": 2020,
-  "Score": 99,
-  "Director": "Radha Blank",
-  "Cast": "Welker White, Reed Birney, Radha Blank, Peter Kim",
-  "Critics Consensus": "The Forty-Year-Old Version opens a compelling window into the ebbs and flows of the artist's life -- and announces writer-director-star Radha Blank as a major filmmaking talent with her feature debut."
- },
- {
-  "Rank": 4,
-  "Movie Title": "Under the Shadow",
-  "Year": 2016,
-  "Score": 99,
-  "Director": "Babak Anvari",
-  "Cast": "Narges Rashidi, Avin Manshadi, Bobby Naderi, Ray Haratian",
-  "Critics Consensus": "Under the Shadow deftly blends seemingly disparate genres to deliver an effective chiller with timely themes and thought-provoking social subtext."
- },
- {
-  "Rank": 5,
-  "Movie Title": "Monty Python and the Holy Grail",
-  "Year": 1975,
-  "Score": 98,
-  "Director": "Terry Gilliam",
-  "Cast": "Graham Chapman, John Cleese, Terry Gilliam, Eric Idle",
-  "Critics Consensus": "A cult classic as gut-bustingly hilarious as it is blithely ridiculous, Monty Python and the Holy Grail has lost none of its exceedingly silly charm."
- },
- {
-  "Rank": 6,
-  "Movie Title": "Ma Rainey's Black Bottom",
-  "Year": 2020,
-  "Score": 97,
-  "Director": "George C. Wolfe",
-  "Cast": "Viola Davis, Chadwick Boseman, Glynn Turman, Colman Domingo",
-  "Critics Consensus": "Framed by a pair of powerhouse performances, Ma Rainey's Black Bottom pays affectionate tribute to a blues legend -- and Black culture at large."
- },
- {
-  "Rank": 7,
-  "Movie Title": "The Hurt Locker",
-  "Year": 2008,
-  "Score": 97,
-  "Director": "Kathryn Bigelow",
-  "Cast": "Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce",
-  "Critics Consensus": "A well-acted, intensely shot, action filled war epic, Kathryn Bigelow's The Hurt Locker is thus far the best of the recent dramatizations of the Iraq War."
- },
- {
-  "Rank": 8,
-  "Movie Title": "Hell or High Water",
-  "Year": 2016,
-  "Score": 97,
-  "Director": "David Mackenzie",
-  "Cast": "Jeff Bridges, Chris Pine, Ben Foster, Gil Birmingham",
-  "Critics Consensus": "Hell or High Water offers a solidly crafted, well-acted Western heist thriller that eschews mindless gunplay in favor of confident pacing and full-bodied characters."
- },
- {
-  "Rank": 9,
-  "Movie Title": "Won't You Be My Neighbor?",
-  "Year": 2018,
-  "Score": 97,
-  "Director": "Morgan Neville",
-  "Cast": "Joanne Rogers, Bill Isler, Hedda Sharapan, Margaret Whitmer",
-  "Critics Consensus": "Won't You Be My Neighbor? takes a fittingly patient and honest look at the life and legacy of a television pioneer whose work has enriched generations."
- },
- {
-  "Rank": 10,
-  "Movie Title": "Dolemite Is My Name",
-  "Year": 2019,
-  "Score": 97,
-  "Director": "Craig Brewer",
-  "Cast": "Eddie Murphy, Wesley Snipes, Kodi Smit-McPhee, Keegan-Michael Key",
-  "Critics Consensus": "In dramatizing Rudy Ray Moore's stranger-than-fiction story, Eddie Murphy makes Dolemite Is My Name just as bold, brash, and ultimately hard to resist as its subject."
- },
- {
-  "Rank": 11,
-  "Movie Title": "Hunt for the Wilderpeople",
-  "Year": 2016,
-  "Score": 97,
-  "Director": "Taika Waititi",
-  "Cast": "Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House",
-  "Critics Consensus": "The charmingly offbeat Hunt for the Wilderpeople unites a solid cast, a talented filmmaker, and a poignant, funny, deeply affecting message."
- },
- {
-  "Rank": 12,
-  "Movie Title": "Mudbound",
-  "Year": 2017,
-  "Score": 97,
-  "Director": "Dee Rees",
-  "Cast": "Carey Mulligan, Jason Clarke, Jason Mitchell, Mary J. Blige",
-  "Critics Consensus": "Mudbound offers a well-acted, finely detailed snapshot of American history whose scenes of rural class struggle resonate far beyond their period setting."
- },
- {
-  "Rank": 13,
-  "Movie Title": "I Lost My Body",
-  "Year": 2019,
-  "Score": 97,
-  "Director": "Jérémy Clapin",
-  "Cast": "Hakim Faris, Victoire Du Bois, Patrick d'Assumçao, Belek Abdelmalek",
-  "Critics Consensus": "Beautifully animated and utterly unique, I Lost My Body takes audiences on a singularly strange journey whose unexpected contours lead to a wholly satisfying destination."
- },
- {
-  "Rank": 14,
-  "Movie Title": "Rocks",
-  "Year": 2019,
-  "Score": 97,
-  "Director": "Sarah Gavron",
-  "Cast": "Bukky Bakray, Ruby Stokes, Sarah Niles, Layo-Christina Akinlude",
-  "Critics Consensus": "A fresh, funny coming-of-age story rooted in realistic characters and anchored with a meaningful message, Rocks is as solid as its title suggests."
- },
- {
-  "Rank": 15,
-  "Movie Title": "Roma",
-  "Year": 2018,
-  "Score": 96,
-  "Director": "Alfonso Cuarón",
-  "Cast": "Yalitza Aparicio, Marina de Tavira, Marco Graf, Fernando Grediaga",
-  "Critics Consensus": "Roma finds writer-director Alfonso Cuarón in complete, enthralling command of his visual craft - and telling the most powerfully personal story of his career."
- },
- {
-  "Rank": 16,
-  "Movie Title": "Atlantics",
-  "Year": 2019,
-  "Score": 96,
-  "Director": "Mati Diop",
-  "Cast": "Abdou Balde, Aminata Kane, Ibrahima Mbaye, Amadou Mbow",
-  "Critics Consensus": "An unpredictable supernatural drama rooted in real-world social commentary, Atlantique suggests a thrillingly bright future for debuting filmmaker Mati Diop."
- },
- {
-  "Rank": 17,
-  "Movie Title": "Psycho",
-  "Year": 1960,
-  "Score": 96,
-  "Director": "Alfred Hitchcock",
-  "Cast": "Anthony Perkins, Janet Leigh, Vera Miles, John Gavin",
-  "Critics Consensus": "Infamous for its shower scene, but immortal for its contribution to the horror genre. Because Psycho was filmed with tact, grace, and art, Hitchcock didn't just create modern horror, he validated it."
- },
- {
-  "Rank": 18,
-  "Movie Title": "To All the Boys I've Loved Before",
-  "Year": 2018,
-  "Score": 96,
-  "Director": "Susan Johnson",
-  "Cast": "Lana Condor, John Corbett, Noah Centineo, Emilija Baranac",
-  "Critics Consensus": "To All the Boys I've Loved Before plays by the teen rom-com rules, but relatable characters and a thoroughly charming cast more than make up for a lack of surprises."
- },
- {
-  "Rank": 19,
-  "Movie Title": "Life of Brian",
-  "Year": 1979,
-  "Score": 96,
-  "Director": "Terry Jones",
-  "Cast": "Graham Chapman, John Cleese, Terry Gilliam, Terry Jones",
-  "Critics Consensus": "One of the more cutting-edge films of the 1970s, this religious farce from the classic comedy troupe is as poignant as it is funny and satirical."
- },
- {
-  "Rank": 20,
-  "Movie Title": "Outside In",
-  "Year": 2017,
-  "Score": 96,
-  "Director": "Lynn Shelton",
-  "Cast": "Jay Duplass, Edie Falco, Kaitlyn Dever, Ben Schwartz",
-  "Critics Consensus": "Brilliantly brought to life by tenderly empathetic performances from Jay Duplass and Edie Falco, Outside In tells a sobering -- yet thoroughly absorbing -- story."
- },
- {
-  "Rank": 21,
-  "Movie Title": "The Irishman",
-  "Year": 2019,
-  "Score": 95,
-  "Director": "Martin Scorsese",
-  "Cast": "Robert De Niro, Al Pacino, Joe Pesci, Anna Paquin",
-  "Critics Consensus": "An epic gangster drama that earns its extended runtime, The Irishman finds Martin Scorsese revisiting familiar themes to poignant, funny, and profound effect."
- },
- {
-  "Rank": 22,
-  "Movie Title": "Marriage Story",
-  "Year": 2019,
-  "Score": 95,
-  "Director": "Noah Baumbach",
-  "Cast": "Scarlett Johansson, Adam Driver, Azhy Robertson, Laura Dern",
-  "Critics Consensus": "Observing a splintering union with compassion and expansive grace, the powerfully acted Marriage Story ranks among writer-director Noah Baumbach's best works."
- },
- {
-  "Rank": 23,
-  "Movie Title": "It Follows",
-  "Year": 2014,
-  "Score": 95,
-  "Director": "David Robert Mitchell",
-  "Cast": "Maika Monroe, Keir Gilchrist, Daniel Zovatto, Jake Weary",
-  "Critics Consensus": "Smart, original, and above all terrifying, It Follows is the rare modern horror film that works on multiple levels -- and leaves a lingering sting."
- },
- {
-  "Rank": 24,
-  "Movie Title": "The Lord of the Rings: The Two Towers",
-  "Year": 2002,
-  "Score": 95,
-  "Director": "Peter Jackson",
-  "Cast": "Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen",
-  "Critics Consensus": "The Two Towers balances spectacular action with emotional storytelling, leaving audiences both wholly satisfied and eager for the final chapter."
- },
- {
-  "Rank": 25,
-  "Movie Title": "Klaus",
-  "Year": 2019,
-  "Score": 95,
-  "Director": "Sergio Pablos",
-  "Cast": "Jason Schwartzman, J.K. Simmons, Rashida Jones, Will Sasso",
-  "Critics Consensus": "Beautiful hand-drawn animation and a humorous, heartwarming narrative make Klaus an instant candidate for holiday classic status."
- },
- {
-  "Rank": 26,
-  "Movie Title": "Croupier",
-  "Year": 1998,
-  "Score": 95,
-  "Director": "Mike Hodges",
-  "Cast": "Clive Owen, Kate Hardie, Alex Kingston, Gina McKee",
-  "Critics Consensus": "The writer slumming for human truths and real experience is a common enough story, but this cool-headed and slick thriller provides a gut-churningly compelling backdrop to a look at our darker sides."
- },
- {
-  "Rank": 27,
-  "Movie Title": "Call Me by Your Name",
-  "Year": 2017,
-  "Score": 94,
-  "Director": "Luca Guadagnino",
-  "Cast": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar",
-  "Critics Consensus": "Call Me by Your Name offers a melancholy, powerfully affecting portrait of first love, empathetically acted by Timothée Chalamet and Armie Hammer."
- },
- {
-  "Rank": 28,
-  "Movie Title": "The Power of the Dog",
-  "Year": 2021,
-  "Score": 94,
-  "Director": "Jane Campion",
-  "Cast": "Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons, Kodi Smit-McPhee",
-  "Critics Consensus": "Brought to life by a stellar ensemble led by Benedict Cumberbatch, The Power of the Dog reaffirms writer-director Jane Campion as one of her generation's finest filmmakers."
- },
- {
-  "Rank": 29,
-  "Movie Title": "Carol",
-  "Year": 2015,
-  "Score": 94,
-  "Director": "Todd Haynes",
-  "Cast": "Cate Blanchett, Rooney Mara, Sarah Paulson, Jake Lacy",
-  "Critics Consensus": "Shaped by Todd Haynes' deft direction and powered by a strong cast led by Cate Blanchett and Rooney Mara, Carol lives up to its groundbreaking source material."
- },
- {
-  "Rank": 30,
-  "Movie Title": "Moneyball",
-  "Year": 2011,
-  "Score": 94,
-  "Director": "Bennett Miller",
-  "Cast": "Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright",
-  "Critics Consensus": "Director Bennett Miller, along with Brad Pitt and Jonah Hill, take a niche subject and turn it into a sharp, funny, and touching portrait worthy of baseball lore."
- },
- {
-  "Rank": 31,
-  "Movie Title": "The Lost Daughter",
-  "Year": 2021,
-  "Score": 94,
-  "Director": "Maggie Gyllenhaal",
-  "Cast": "Olivia Colman, Dakota Johnson, Peter Sarsgaard, Jessie Buckley",
-  "Critics Consensus": "A strikingly assured debut for writer-director Maggie Gyllenhaal, The Lost Daughter unites a brilliant cast in service of a daringly ambitious story."
- },
- {
-  "Rank": 32,
-  "Movie Title": "The Sea Beast",
-  "Year": 2022,
-  "Score": 94,
-  "Director": "Chris Williams",
-  "Cast": "Karl Urban, Zaris-Angel Hator, Jared Harris, Dan Stevens",
-  "Critics Consensus": "An original animated tale that's often as daring as its characters, The Sea Beast sends audiences on a voyage well worth taking."
- },
- {
-  "Rank": 33,
-  "Movie Title": "Private Life",
-  "Year": 2018,
-  "Score": 94,
-  "Director": "Tamara Jenkins",
-  "Cast": "Paul Giamatti, Kathryn Hahn, Kayli Carter, Molly Shannon",
-  "Critics Consensus": "Private Life uses one couple's bumpy journey to take an affecting look at an easily identifiable - and too rarely dramatized - rite of adult passage."
- },
- {
-  "Rank": 34,
-  "Movie Title": "Enola Holmes 2",
-  "Year": 2022,
-  "Score": 94,
-  "Director": "Harry Bradbeer",
-  "Cast": "Millie Bobby Brown, Henry Cavill, Helena Bonham Carter, David Thewlis",
-  "Critics Consensus": "Building on its predecessor with boisterously entertaining flair, Enola Holmes 2 solves the mystery of how to make a satisfying sequel -- and makes it look positively elementary."
- },
- {
-  "Rank": 35,
-  "Movie Title": "The Birds",
-  "Year": 1963,
-  "Score": 94,
-  "Director": "Alfred Hitchcock",
-  "Cast": "Rod Taylor, Tippi Hedren, Suzanne Pleshette, Jessica Tandy",
-  "Critics Consensus": "Proving once again that build-up is the key to suspense, Alfred Hitchcock successfully turned birds into some of the most terrifying villains in horror history."
- },
- {
-  "Rank": 36,
-  "Movie Title": "Captain Phillips",
-  "Year": 2013,
-  "Score": 93,
-  "Director": "Paul Greengrass",
-  "Cast": "Tom Hanks, Catherine Keener, Barkhad Abdi, Barkhad Abdirahman",
-  "Critics Consensus": "Smart, powerfully acted, and incredibly intense, Captain Phillips offers filmgoers a Hollywood biopic done right -- and offers Tom Hanks a showcase for yet another brilliant performance."
- },
- {
-  "Rank": 37,
-  "Movie Title": "Spider-Man 2",
-  "Year": 2004,
-  "Score": 93,
-  "Director": "Sam Raimi",
-  "Cast": "Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina",
-  "Critics Consensus": "Boasting an entertaining villain and deeper emotional focus, this is a nimble sequel that improves upon the original."
- },
- {
-  "Rank": 38,
-  "Movie Title": "The Lord of the Rings: The Return of the King",
-  "Year": 2003,
-  "Score": 93,
-  "Director": "Peter Jackson",
-  "Cast": "Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen",
-  "Critics Consensus": "Visually breathtaking and emotionally powerful,  The Lord of the Rings - The Return of the King is a moving and satisfying conclusion to a great trilogy."
- },
- {
-  "Rank": 39,
-  "Movie Title": "The Meyerowitz Stories (New and Selected)",
-  "Year": 2017,
-  "Score": 93,
-  "Director": "Noah Baumbach",
-  "Cast": "Adam Sandler, Ben Stiller, Dustin Hoffman, Emma Thompson",
-  "Critics Consensus": "The Meyerowitz Stories (New and Selected) observes the family dynamic through writer-director Noah Baumbach's bittersweet lens and the impressive efforts of a remarkable cast."
- },
- {
-  "Rank": 40,
-  "Movie Title": "Hustle",
-  "Year": 2022,
-  "Score": 93,
-  "Director": "Jeremiah Zagar",
-  "Cast": "Adam Sandler, Juancho Hernangomez, Queen Latifah, Ben Foster",
-  "Critics Consensus": "Hustle doesn't have any fancy moves, but it doesn't need them -- Adam Sandler's everyman charm makes this easy layup fun to watch."
- },
- {
-  "Rank": 41,
-  "Movie Title": "Cam",
-  "Year": 2018,
-  "Score": 93,
-  "Director": "Daniel Goldhaber",
-  "Cast": "Madeline Brewer, Patch Darragh, Melora Walters, Devin Druid",
-  "Critics Consensus": "Smart and suspenseful, CAM is a techno-thriller that's far more than the sum of its salacious parts -- and an outstanding showcase for Madeline Brewer in the leading role."
- },
- {
-  "Rank": 42,
-  "Movie Title": "Hush",
-  "Year": 2016,
-  "Score": 93,
-  "Director": "Mike Flanagan",
-  "Cast": "John Gallagher Jr., Kate Siegel, Michael Trucco, Samantha Sloyan",
-  "Critics Consensus": "Hush navigates the bloody waters of home invasion thrillers and incisive slashers for a contemporary horror puree."
- },
- {
-  "Rank": 43,
-  "Movie Title": "Sand Storm",
-  "Year": 2016,
-  "Score": 93,
-  "Director": "Elite Zexer",
-  "Cast": "Lamis Ammar, Ruba Blal, Hitham Omari, Khadija Al Akel",
-  "Critics Consensus": "Sand Storm marks an impressive first feature for debuting writer-director Elite Zexer that offers a perceptive -- and crucial -- look at patriarchal traditions."
- },
- {
-  "Rank": 44,
-  "Movie Title": "Glass Onion: A Knives Out Mystery",
-  "Year": 2022,
-  "Score": 92,
-  "Director": "Rian Johnson",
-  "Cast": "Daniel Craig, Ed Norton, Dave Bautista, Kate Hudson",
-  "Critics Consensus": "Glass Onion: A Knives Out Mystery brings back Benoit Blanc for another wildly entertaining mystery rounded out by an outstanding ensemble cast."
- },
- {
-  "Rank": 45,
-  "Movie Title": "Skyfall",
-  "Year": 2012,
-  "Score": 92,
-  "Director": "Sam Mendes",
-  "Cast": "Daniel Craig, Judi Dench, Javier Bardem, Ralph Fiennes",
-  "Critics Consensus": "Sam Mendes brings Bond surging back with a smart, sexy, riveting action thriller that qualifies as one of the best 007 films to date."
- },
- {
-  "Rank": 46,
-  "Movie Title": "Da 5 Bloods",
-  "Year": 2020,
-  "Score": 92,
-  "Director": "Spike Lee",
-  "Cast": "Delroy Lindo, Jonathan Majors, Clarke Peters, Norm Lewis",
-  "Critics Consensus": "Fierce energy and ambition course through Da 5 Bloods, coming together to fuel one of Spike Lee's most urgent and impactful films."
- },
- {
-  "Rank": 47,
-  "Movie Title": "American Hustle",
-  "Year": 2013,
-  "Score": 92,
-  "Director": "David O. Russell",
-  "Cast": "Christian Bale, Bradley Cooper, Jeremy Renner, Amy Adams",
-  "Critics Consensus": "Riotously funny and impeccably cast, American Hustle compensates for its flaws with unbridled energy and some of David O. Russell's most irrepressibly vibrant direction."
- },
- {
-  "Rank": 48,
-  "Movie Title": "The Bourne Ultimatum",
-  "Year": 2007,
-  "Score": 92,
-  "Director": "Paul Greengrass",
-  "Cast": "Matt Damon, Julia Stiles, Joan Allen, David Strathairn",
-  "Critics Consensus": "The Bourne Ultimatum is an intelligent, finely tuned non-stop thrill ride. Another strong performance from Matt Damon and sharp camerawork from Paul Greengrass make this the finest installment of the Bourne trilogy."
- },
- {
-  "Rank": 49,
-  "Movie Title": "El Camino: A Breaking Bad Movie",
-  "Year": 2019,
-  "Score": 92,
-  "Director": "Vince Gilligan",
-  "Cast": "Aaron Paul, Matt L. Jones, Charles Baker",
-  "Critics Consensus": "Entertaining if not essential, El Camino adds a satisfying belated coda to the Breaking Bad story -- led by a career-best performance from Aaron Paul."
- },
- {
-  "Rank": 50,
-  "Movie Title": "We the Animals",
-  "Year": 2018,
-  "Score": 92,
-  "Director": "Jeremiah Zagar",
-  "Cast": "Raúl Castillo, Sheila Vand, Evan Rosado, Isaiah Kristian",
-  "Critics Consensus": "Dreamlike and haunting, We the Animals approaches the coming-of-age odyssey with a uniquely documentarian eye."
- },
- {
-  "Rank": 51,
-  "Movie Title": "The Little Prince",
-  "Year": 2015,
-  "Score": 92,
-  "Director": "Mark Osborne",
-  "Cast": "Jeff Bridges, Rachel McAdams, James Franco, Marion Cotillard",
-  "Critics Consensus": "Beautifully animated and faithful to the spirit of its classic source material, The Little Prince is a family-friendly treat that anchors thrilling visuals with a satisfying story."
- },
- {
-  "Rank": 52,
-  "Movie Title": "Roald Dahl's Matilda the Musical",
-  "Year": 2022,
-  "Score": 92,
-  "Director": "Matthew Warchus",
-  "Cast": "Alisha Weir, Emma Thompson, Lashana Lynch, Stephen Graham",
-  "Critics Consensus": "Roald Dahl's Matilda the Musical brings the classic story back to the screen with a delightful Emma Thompson, dazzling dancing, and a suitably irascible take on the source material."
- },
- {
-  "Rank": 53,
-  "Movie Title": "Rocky",
-  "Year": 1976,
-  "Score": 92,
-  "Director": "John G. Avildsen",
-  "Cast": "Sylvester Stallone, Talia Shire, Burgess Meredith, Burt Young",
-  "Critics Consensus": "This story of a down-on-his-luck boxer is thoroughly predictable, but Sylvester Stallone's script and stunning performance in the title role brush aside complaints."
- },
- {
-  "Rank": 54,
-  "Movie Title": "Set It Up",
-  "Year": 2018,
-  "Score": 92,
-  "Director": "Claire Scanlon",
-  "Cast": "Zoey Deutch, Glen Powell, Lucy Liu, Taye Diggs",
-  "Critics Consensus": "Set It Up follows the long-established outlines of the rom-com template -- and in the process, proves there's still substantial pleasure to be wrought from familiar formulas."
- },
- {
-  "Rank": 55,
-  "Movie Title": "Parenthood",
-  "Year": 1989,
-  "Score": 92,
-  "Director": "Ron Howard",
-  "Cast": "Steve Martin, Mary Steenburgen, Dianne Wiest, Jason Robards",
-  "Critics Consensus": "Bolstered by a delightful cast, Parenthood is a funny and thoughtfully crafted look at the best and worst moments of family life that resonates broadly."
- },
- {
-  "Rank": 56,
-  "Movie Title": "Mindhorn",
-  "Year": 2016,
-  "Score": 92,
-  "Director": "Sean Foley",
-  "Cast": "Julian Barratt, Essie Davis, Andrea Riseborough, Harriet Walter",
-  "Critics Consensus": "Led by a committed performance from Julian Barratt, Mindhorn offers audiences a laugh-out-loud comedy whose sublime silliness is enhanced by its more thoughtful moments."
- },
- {
-  "Rank": 57,
-  "Movie Title": 1922,
-  "Year": 2017,
-  "Score": 92,
-  "Director": "Zak Hilditch",
-  "Cast": "Thomas Jane, Neal McDonough, Molly Parker, Brian d'Arcy James",
-  "Critics Consensus": "Thanks to director Zak Hilditch's patient storytelling and strong work from lead Thomas Jane, 1922 ranks among the more satisfying Stephen King adaptations."
- },
- {
-  "Rank": 58,
-  "Movie Title": "Uncorked",
-  "Year": 2020,
-  "Score": 92,
-  "Director": "Prentice Penny",
-  "Cast": "Mamoudou Athie, Courtney B. Vance, Niecy Nash, Sasha Compère",
-  "Critics Consensus": "Like a good wine, once you let Uncorked breathe, its heartfelt tenderness will yield a sweet time."
- },
- {
-  "Rank": 59,
-  "Movie Title": "La La Land",
-  "Year": 2016,
-  "Score": 91,
-  "Director": "Damien Chazelle",
-  "Cast": "Ryan Gosling, Emma Stone, John Legend, Rosemarie DeWitt",
-  "Critics Consensus": "La La Land breathes new life into a bygone genre with thrillingly assured direction, powerful performances, and an irresistible excess of heart."
- },
- {
-  "Rank": 60,
-  "Movie Title": "Phantom Thread",
-  "Year": 2017,
-  "Score": 91,
-  "Director": "Paul Thomas Anderson",
-  "Cast": "Daniel Day-Lewis, Vicky Krieps, Lesley Manville, Camilla Rutherford",
-  "Critics Consensus": "Phantom Thread's finely woven narrative is filled out nicely by humor, intoxicating romantic tension, and yet another impressively committed performance from Daniel Day-Lewis."
- },
- {
-  "Rank": 61,
-  "Movie Title": "The Nice Guys",
-  "Year": 2016,
-  "Score": 91,
-  "Director": "Shane Black",
-  "Cast": "Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer",
-  "Critics Consensus": "The Nice Guys hearkens back to the buddy comedies of a bygone era while adding something extra courtesy of a knowing script and the irresistible chemistry of its leads."
- },
- {
-  "Rank": 62,
-  "Movie Title": "Zero Dark Thirty",
-  "Year": 2012,
-  "Score": 91,
-  "Director": "Kathryn Bigelow",
-  "Cast": "Jessica Chastain, Jason Clarke, Joel Edgerton, Jennifer Ehle",
-  "Critics Consensus": "Gripping, suspenseful, and brilliantly crafted, Zero Dark Thirty dramatizes the hunt for Osama bin Laden with intelligence and an eye for detail."
- },
- {
-  "Rank": 63,
-  "Movie Title": "The Lord of the Rings: The Fellowship of the Ring",
-  "Year": 2001,
-  "Score": 91,
-  "Director": "Peter Jackson",
-  "Cast": "Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen",
-  "Critics Consensus": "Full of eye-popping special effects, and featuring a pitch-perfect cast, The Lord of the Rings: The Fellowship of the Ring brings J.R.R. Tolkien's classic to vivid life."
- },
- {
-  "Rank": 64,
-  "Movie Title": "Philomena",
-  "Year": 2013,
-  "Score": 91,
-  "Director": "Stephen Frears",
-  "Cast": "Judi Dench, Steve Coogan, Michelle Fairley, Barbara Jefford",
-  "Critics Consensus": "Based on a powerful true story and led by note-perfect performances from Judi Dench and Steve Coogan, Philomena offers a profoundly affecting drama for adult filmgoers of all ages."
- },
- {
-  "Rank": 65,
-  "Movie Title": "The White Tiger",
-  "Year": 2021,
-  "Score": 91,
-  "Director": "Ramin Bahrani",
-  "Cast": "Adarsh Gourav, Rajkummar Rao, Priyanka Chopra Jonas, Vedant Sinha",
-  "Critics Consensus": "Well-acted and beautifully made, The White Tiger distills the strengths of its source material into a grimly compelling drama."
- },
- {
-  "Rank": 66,
-  "Movie Title": "Beasts of No Nation",
-  "Year": 2015,
-  "Score": 91,
-  "Director": "Cary Joji Fukunaga",
-  "Cast": "Idris Elba, Abraham Attah, Opeyemi Fagbohungbe, Kurt Egyiawan",
-  "Critics Consensus": "Beasts of No Nation finds writer-director Cary Fukunaga working with a talented cast to offer a sobering, uncompromising, yet still somehow hopeful picture of war's human cost."
- },
- {
-  "Rank": 67,
-  "Movie Title": "High Flying Bird",
-  "Year": 2019,
-  "Score": 91,
-  "Director": "Steven Soderbergh",
-  "Cast": "André Holland, Zazie Beetz, Bill Duke, Sonja Sohn",
-  "Critics Consensus": "High Flying Bird takes a thoughtful and engrossing look at professional sports that sees Steven Soderbergh continuing to test the limits of new filmmaking technology."
- },
- {
-  "Rank": 68,
-  "Movie Title": "Apollo 10 1\/2: A Space Age Childhood",
-  "Year": 2022,
-  "Score": 91,
-  "Director": "Richard Linklater",
-  "Cast": "Jack Black, Bill Wise, Lee Eddy, Milo Coy",
-  "Critics Consensus": "The sweetly nostalgic Apollo 10 1\/2: A Space Age Childhood finds Richard Linklater reusing visual and thematic ingredients in a deeply personal, freshly inspired way."
- },
- {
-  "Rank": 69,
-  "Movie Title": "Happy as Lazzaro",
-  "Year": 2018,
-  "Score": 91,
-  "Director": "Alice Rohrwacher",
-  "Cast": "Adriano Tardiolo, Alba Rohrwacher, Agnese Graziani, Tommaso Ragno",
-  "Critics Consensus": "Happy as Lazzaro uses a friendship's ups and downs as a satisfyingly expansive canvas for a picture rich with thematic and cinematic depth."
- },
- {
-  "Rank": 70,
-  "Movie Title": "Full Metal Jacket",
-  "Year": 1987,
-  "Score": 91,
-  "Director": "Stanley Kubrick",
-  "Cast": "Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey",
-  "Critics Consensus": "Intense, tightly constructed, and darkly comic at times, Stanley Kubrick's Full Metal Jacket may not boast the most original of themes, but it is exceedingly effective at communicating them."
- },
- {
-  "Rank": 71,
-  "Movie Title": "Gerald's Game",
-  "Year": 2017,
-  "Score": 91,
-  "Director": "Mike Flanagan",
-  "Cast": "Carla Gugino, Bruce Greenwood, Henry Thomas, Carel Struycken",
-  "Critics Consensus": "Carla Gugino carries Gerald's Game's small-scale suspense with a career-defining performance."
- },
- {
-  "Rank": 72,
-  "Movie Title": "When Harry Met Sally...",
-  "Year": 1989,
-  "Score": 91,
-  "Director": "Rob Reiner",
-  "Cast": "Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby",
-  "Critics Consensus": "Rob Reiner's touching, funny film set a new standard for romantic comedies, and he was ably abetted by the sharp interplay between Billy Crystal and Meg Ryan."
- },
- {
-  "Rank": 73,
-  "Movie Title": "The Willoughbys",
-  "Year": 2020,
-  "Score": 91,
-  "Director": "Kris Pearn",
-  "Cast": "Will Forte, Maya Rudolph, Alessia Cara, Terry Crews",
-  "Critics Consensus": "An appealing animated adventure whose silliness is anchored in genuine emotion, The Willoughbys offers fanciful fun the entire family can enjoy."
- },
- {
-  "Rank": 74,
-  "Movie Title": "National Lampoon's Animal House",
-  "Year": 1978,
-  "Score": 91,
-  "Director": "John Landis",
-  "Cast": "John Belushi, Kevin Bacon, Donald Sutherland, Karen Allen",
-  "Critics Consensus": "The talents of director John Landis and Saturday Night Live's irrepressible John Belushi conspired to create a rambunctious, subversive college comedy that continues to resonate."
- },
- {
-  "Rank": 75,
-  "Movie Title": "Up in the Air",
-  "Year": 2009,
-  "Score": 90,
-  "Director": "Jason Reitman",
-  "Cast": "George Clooney, Vera Farmiga, Anna Kendrick, Jason Bateman",
-  "Critics Consensus": "Led by charismatic performances by its three leads, director Jason Reitman delivers a smart blend of humor and emotion with just enough edge for mainstream audiences."
- },
- {
-  "Rank": 76,
-  "Movie Title": "The Imitation Game",
-  "Year": 2014,
-  "Score": 90,
-  "Director": "Morten Tyldum",
-  "Cast": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear",
-  "Critics Consensus": "With an outstanding starring performance from Benedict Cumberbatch illuminating its fact-based story, The Imitation Game serves as an eminently well-made entry in the \"prestige biopic\" genre."
- },
- {
-  "Rank": 77,
-  "Movie Title": "Minority Report",
-  "Year": 2002,
-  "Score": 90,
-  "Director": "Steven Spielberg",
-  "Cast": "Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow",
-  "Critics Consensus": "Thought-provoking and visceral, Steven Spielberg successfully combines high concept ideas and high octane action in this fast and febrile sci-fi thriller."
- },
- {
-  "Rank": 78,
-  "Movie Title": "Spider-Man",
-  "Year": 2002,
-  "Score": 90,
-  "Director": "Sam Raimi",
-  "Cast": "Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco",
-  "Critics Consensus": "Not only does Spider-Man provide a good dose of web-swinging fun, it also has a heart, thanks to the combined charms of director Sam Raimi and star Tobey Maguire."
- },
- {
-  "Rank": 79,
-  "Movie Title": "The Two Popes",
-  "Year": 2019,
-  "Score": 90,
-  "Director": "Fernando Meirelles",
-  "Cast": "Jonathan Pryce, Anthony Hopkins, Juan Minujín, Sidney Cole",
-  "Critics Consensus": "Led by outstanding performances from its well-matched leads, The Two Popes draws absorbing drama from a pivotal moment in modern organized religion."
- },
- {
-  "Rank": 80,
-  "Movie Title": "The Kindergarten Teacher",
-  "Year": 2018,
-  "Score": 90,
-  "Director": "Sara Colangelo",
-  "Cast": "Maggie Gyllenhaal, Gael García Bernal, Michael Chernus, Anna Baryshnikov",
-  "Critics Consensus": "Elevated by a bravura performance from Maggie Gyllenhaal, The Kindergarten Teacher is one American remake that retains its impact the second time around."
- },
- {
-  "Rank": 81,
-  "Movie Title": "Reservoir Dogs",
-  "Year": 1992,
-  "Score": 90,
-  "Director": "Quentin Tarantino",
-  "Cast": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
-  "Critics Consensus": "Thrumming with intelligence and energy, Reservoir Dogs opens Quentin Tarantino's filmmaking career with hard-hitting style."
- },
- {
-  "Rank": 82,
-  "Movie Title": "On Body and Soul",
-  "Year": 2017,
-  "Score": 90,
-  "Director": "Ildikó Enyedi",
-  "Cast": "Géza Morcsányi, Alexandra Borbély, Zoltán Schneider, Ervin Nagy",
-  "Critics Consensus": "Tender performances and a strong sense of style combine to create an eccentric, dreamy portrait of love and loneliness in On Body and Soul."
- },
- {
-  "Rank": 83,
-  "Movie Title": "The Bridges of Madison County",
-  "Year": 1995,
-  "Score": 90,
-  "Director": "Clint Eastwood",
-  "Cast": "Clint Eastwood, Meryl Streep, Annie Corley, Victor Slezak",
-  "Critics Consensus": "Sentimental, slow, schmaltzy, and very satisfying, The Bridges of Madison County finds Clint Eastwood adapting a bestseller with heft, wit, and grace."
- },
- {
-  "Rank": 84,
-  "Movie Title": "The Trial of the Chicago 7",
-  "Year": 2020,
-  "Score": 89,
-  "Director": "Aaron Sorkin",
-  "Cast": "Eddie Redmayne, Alex Sharp, Sacha Baron Cohen, Jeremy Strong",
-  "Critics Consensus": "An actors' showcase enlivened by its topical fact-based story, The Trial of the Chicago 7 plays squarely -- and compellingly -- to Aaron Sorkin's strengths."
- },
- {
-  "Rank": 85,
-  "Movie Title": "Zombieland",
-  "Year": 2009,
-  "Score": 89,
-  "Director": "Ruben Fleischer",
-  "Cast": "Woody Harrelson, Jesse Eisenberg, Emma Stone, Abigail Breslin",
-  "Critics Consensus": "Wickedly funny and featuring plenty of gore, Zombieland is proof that the zombie subgenre is far from dead."
- },
- {
-  "Rank": 86,
-  "Movie Title": "The Ballad of Buster Scruggs",
-  "Year": 2018,
-  "Score": 89,
-  "Director": "Joel Coen",
-  "Cast": "Tim Blake Nelson, Willie Watson, David Krumholtz, James Franco",
-  "Critics Consensus": "The Ballad of Buster Scruggs avoids anthology pitfalls with a consistent collection tied together by the Coen brothers' signature blend of dark drama and black humor."
- },
- {
-  "Rank": 87,
-  "Movie Title": "All Quiet on the Western Front",
-  "Year": 2022,
-  "Score": 90,
-  "Director": "Edward Berger",
-  "Cast": "Felix Kammerer, Albrecht Schuch, Aaron Hilmer, Moritz Klaus",
-  "Critics Consensus": "Both timely and timeless, All Quiet on the Western Front retains the power of its classic source material by focusing on the futility of war."
- },
- {
-  "Rank": 88,
-  "Movie Title": "Always Be My Maybe",
-  "Year": 2019,
-  "Score": 89,
-  "Director": "Nahnatchka Khan",
-  "Cast": "Ali Wong, Randall Park, Keanu Reeves, Michelle Buteau",
-  "Critics Consensus": "Carried by the infectious charms of Ali Wong and Randall Park, Always Be My Maybe takes familiar rom-com beats and cleverly layers in smart social commentary to find its own sweet groove."
- },
- {
-  "Rank": 89,
-  "Movie Title": "I Am Mother",
-  "Year": 2019,
-  "Score": 89,
-  "Director": "Grant Sputore",
-  "Cast": "Hilary Swank, Clara Rugaard, Rose Byrne, Tahlia Sturzaker",
-  "Critics Consensus": "Suspenseful, well-acted, and intelligent, I Am Mother is an ambitious sci-fi story that largely achieves its impressive aims."
- },
- {
-  "Rank": 90,
-  "Movie Title": "I Don't Feel at Home in This World Anymore",
-  "Year": 2017,
-  "Score": 89,
-  "Director": "Macon Blair",
-  "Cast": "Melanie Lynskey, Elijah Wood, David Yow, Jane Levy",
-  "Critics Consensus": "I don't feel at home in this world anymore. transcends its unwieldy title to offer timely, intoxicatingly dark observations on gender dynamics and social norms in modern America."
- },
- {
-  "Rank": 91,
-  "Movie Title": "Paddleton",
-  "Year": 2019,
-  "Score": 89,
-  "Director": "Alexandre Lehmann",
-  "Cast": "Mark Duplass, Ray Romano, Marguerite Moreau, Christine Woods",
-  "Critics Consensus": "It takes its time coming together, but the quietly effective Paddleton pulls off a tricky tonal balancing act, thanks largely to the strengths of its well-chosen leads."
- },
- {
-  "Rank": 92,
-  "Movie Title": "Rango",
-  "Year": 2011,
-  "Score": 88,
-  "Director": "Gore Verbinski",
-  "Cast": "Johnny Depp, Isla Fisher, Abigail Breslin, Ned Beatty",
-  "Critics Consensus": "Rango is a smart, giddily creative burst of beautifully animated entertainment, and Johnny Depp gives a colorful vocal performance as a household pet in an unfamiliar world."
- },
- {
-  "Rank": 93,
-  "Movie Title": "The Bad Guys",
-  "Year": 2022,
-  "Score": 88,
-  "Director": "Pierre Perifel",
-  "Cast": "Sam Rockwell, Zazie Beetz, Marc Maron, Awkwafina",
-  "Critics Consensus": "Fast-paced, funny, and full of colorful visual appeal, The Bad Guys is good news for audiences seeking options the whole family can enjoy."
- },
- {
-  "Rank": 94,
-  "Movie Title": "Dope",
-  "Year": 2015,
-  "Score": 88,
-  "Director": "Rick Famuyiwa",
-  "Cast": "Shameik Moore, Tony Revolori, Kiersey Clemons, Kimberly Elise",
-  "Critics Consensus": "Featuring a starmaking performance from Shameik Moore and a refreshingly original point of view from writer-director Rick Famuyiwa, Dope is smart, insightful entertainment."
- },
- {
-  "Rank": 95,
-  "Movie Title": "Oxygen",
-  "Year": 2021,
-  "Score": 88,
-  "Director": "Alexandre Aja",
-  "Cast": "Mélanie Laurent, Mathieu Amalric, Malik Zidi, Marc Saez",
-  "Critics Consensus": "Oxygen gets the white-knuckle maximum out of its claustrophobic setting, with director Alexandre Aja and star Mélanie Laurent making this a must-watch thriller for sci-fi fans."
- },
- {
-  "Rank": 96,
-  "Movie Title": "Fear Street Part Three: 1666",
-  "Year": 2021,
-  "Score": 88,
-  "Director": "Leigh Janiak",
-  "Cast": "Kiana Madeira, Ashley Zukerman, Gillian Jacobs, Olivia Welch",
-  "Critics Consensus": "Fear Street Part Three: 1666 sends the slasher series back in time for a trilogy-concluding installment that caps things off on a screaming high note."
- },
- {
-  "Rank": 97,
-  "Movie Title": "Donnie Brasco",
-  "Year": 1997,
-  "Score": 88,
-  "Director": "Mike Newell",
-  "Cast": "Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby",
-  "Critics Consensus": "A stark, nuanced portrait of life in organized crime, bolstered by strong performances from Al Pacino and Johnny Depp."
- },
- {
-  "Rank": 98,
-  "Movie Title": "Inception",
-  "Year": 2010,
-  "Score": 87,
-  "Director": "Christopher Nolan",
-  "Cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy",
-  "Critics Consensus": "Smart, innovative, and thrilling, Inception is that rare summer blockbuster that succeeds viscerally as well as intellectually."
- },
- {
-  "Rank": 99,
-  "Movie Title": "American Beauty",
-  "Year": 1999,
-  "Score": 87,
-  "Director": "Sam Mendes",
-  "Cast": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
-  "Critics Consensus": "Flawlessly cast and brimming with dark, acid wit, American Beauty is a smart, provocative high point of late '90s mainstream Hollywood film."
- },
- {
-  "Rank": 100,
-  "Movie Title": "Kung Fu Panda",
-  "Year": 2008,
-  "Score": 87,
-  "Director": "John Stevenson",
-  "Cast": "Jack Black, Angelina Jolie, Jackie Chan, David Cross",
-  "Critics Consensus": "Kung Fu Panda has a familiar message, but the pleasing mix of humor, swift martial arts action, and colorful animation makes for winning Summer entertainment."
- }
+  {
+    "Rank": "1,His House,2020,100,Remi Weekes,\"Wunmi Mosaku, Sope Dirisu, Matt Smith, Cornell John\",\"Featuring genuine scares through every corridor, His House is a terrifying look at the specters of the refugee experience and a stunning feature debut for Remi Weekes.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "2,How to Train Your Dragon,2010,99,Christopher Sanders,\"Jay Baruchel, Gerard Butler, America Ferrera, Jonah Hill\",\"Boasting dazzling animation, a script with surprising dramatic depth, and thrilling 3-D sequences, How to Train Your Dragon soars.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "3,The Forty-Year-Old Version,2020,99,Radha Blank,\"Welker White, Reed Birney, Radha Blank, Peter Kim\",The Forty-Year-Old Version opens a compelling window into the ebbs and flows of the artist's life -- and announces writer-director-star Radha Blank as a major filmmaking talent with her feature debut.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "4,Under the Shadow,2016,99,Babak Anvari,\"Narges Rashidi, Avin Manshadi, Bobby Naderi, Ray Haratian\",Under the Shadow deftly blends seemingly disparate genres to deliver an effective chiller with timely themes and thought-provoking social subtext.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "5,Monty Python and the Holy Grail,1975,98,Terry Gilliam,\"Graham Chapman, John Cleese, Terry Gilliam, Eric Idle\",\"A cult classic as gut-bustingly hilarious as it is blithely ridiculous, Monty Python and the Holy Grail has lost none of its exceedingly silly charm.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "6,Ma Rainey's Black Bottom,2020,97,George C. Wolfe,\"Viola Davis, Chadwick Boseman, Glynn Turman, Colman Domingo\",\"Framed by a pair of powerhouse performances, Ma Rainey's Black Bottom pays affectionate tribute to a blues legend -- and Black culture at large.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "7,The Hurt Locker,2008,97,Kathryn Bigelow,\"Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce\",\"A well-acted, intensely shot, action filled war epic, Kathryn Bigelow's The Hurt Locker is thus far the best of the recent dramatizations of the Iraq War.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "8,Hell or High Water,2016,97,David Mackenzie,\"Jeff Bridges, Chris Pine, Ben Foster, Gil Birmingham\",\"Hell or High Water offers a solidly crafted, well-acted Western heist thriller that eschews mindless gunplay in favor of confident pacing and full-bodied characters.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "9,Won't You Be My Neighbor?,2018,97,Morgan Neville,\"Joanne Rogers, Bill Isler, Hedda Sharapan, Margaret Whitmer\",Won't You Be My Neighbor? takes a fittingly patient and honest look at the life and legacy of a television pioneer whose work has enriched generations.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "10,Dolemite Is My Name,2019,97,Craig Brewer,\"Eddie Murphy, Wesley Snipes, Kodi Smit-McPhee, Keegan-Michael Key\",\"In dramatizing Rudy Ray Moore's stranger-than-fiction story, Eddie Murphy makes Dolemite Is My Name just as bold, brash, and ultimately hard to resist as its subject.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "11,Hunt for the Wilderpeople,2016,97,Taika Waititi,\"Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House\",\"The charmingly offbeat Hunt for the Wilderpeople unites a solid cast, a talented filmmaker, and a poignant, funny, deeply affecting message.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "12,Mudbound,2017,97,Dee Rees,\"Carey Mulligan, Jason Clarke, Jason Mitchell, Mary J. Blige\",\"Mudbound offers a well-acted, finely detailed snapshot of American history whose scenes of rural class struggle resonate far beyond their period setting.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "13,I Lost My Body,2019,97,Jérémy Clapin,\"Hakim Faris, Victoire Du Bois, Patrick d'Assumçao, Belek Abdelmalek\",\"Beautifully animated and utterly unique, I Lost My Body takes audiences on a singularly strange journey whose unexpected contours lead to a wholly satisfying destination.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "14,Rocks,2019,97,Sarah Gavron,\"Bukky Bakray, Ruby Stokes, Sarah Niles, Layo-Christina Akinlude\",\"A fresh, funny coming-of-age story rooted in realistic characters and anchored with a meaningful message, Rocks is as solid as its title suggests.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "15,Roma,2018,96,Alfonso Cuarón,\"Yalitza Aparicio, Marina de Tavira, Marco Graf, Fernando Grediaga\",\"Roma finds writer-director Alfonso Cuarón in complete, enthralling command of his visual craft - and telling the most powerfully personal story of his career.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "16,Atlantics,2019,96,Mati Diop,\"Abdou Balde, Aminata Kane, Ibrahima Mbaye, Amadou Mbow\",\"An unpredictable supernatural drama rooted in real-world social commentary, Atlantique suggests a thrillingly bright future for debuting filmmaker Mati Diop.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "17,Psycho,1960,96,Alfred Hitchcock,\"Anthony Perkins, Janet Leigh, Vera Miles, John Gavin\",\"Infamous for its shower scene, but immortal for its contribution to the horror genre. Because Psycho was filmed with tact, grace, and art, Hitchcock didn't just create modern horror, he validated it.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "18,To All the Boys I've Loved Before,2018,96,Susan Johnson,\"Lana Condor, John Corbett, Noah Centineo, Emilija Baranac\",\"To All the Boys I've Loved Before plays by the teen rom-com rules, but relatable characters and a thoroughly charming cast more than make up for a lack of surprises.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "19,Life of Brian,1979,96,Terry Jones,\"Graham Chapman, John Cleese, Terry Gilliam, Terry Jones\",\"One of the more cutting-edge films of the 1970s, this religious farce from the classic comedy troupe is as poignant as it is funny and satirical.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "20,Outside In,2017,96,Lynn Shelton,\"Jay Duplass, Edie Falco, Kaitlyn Dever, Ben Schwartz\",\"Brilliantly brought to life by tenderly empathetic performances from Jay Duplass and Edie Falco, Outside In tells a sobering -- yet thoroughly absorbing -- story.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "21,The Irishman,2019,95,Martin Scorsese,\"Robert De Niro, Al Pacino, Joe Pesci, Anna Paquin\",\"An epic gangster drama that earns its extended runtime, The Irishman finds Martin Scorsese revisiting familiar themes to poignant, funny, and profound effect.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "22,Marriage Story,2019,95,Noah Baumbach,\"Scarlett Johansson, Adam Driver, Azhy Robertson, Laura Dern\",\"Observing a splintering union with compassion and expansive grace, the powerfully acted Marriage Story ranks among writer-director Noah Baumbach's best works.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "23,It Follows,2014,95,David Robert Mitchell,\"Maika Monroe, Keir Gilchrist, Daniel Zovatto, Jake Weary\",\"Smart, original, and above all terrifying, It Follows is the rare modern horror film that works on multiple levels -- and leaves a lingering sting.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "24,The Lord of the Rings: The Two Towers,2002,95,Peter Jackson,\"Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen\",\"The Two Towers balances spectacular action with emotional storytelling, leaving audiences both wholly satisfied and eager for the final chapter.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "25,Klaus,2019,95,Sergio Pablos,\"Jason Schwartzman, J.K. Simmons, Rashida Jones, Will Sasso\",\"Beautiful hand-drawn animation and a humorous, heartwarming narrative make Klaus an instant candidate for holiday classic status.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "26,Croupier,1998,95,Mike Hodges,\"Clive Owen, Kate Hardie, Alex Kingston, Gina McKee\",\"The writer slumming for human truths and real experience is a common enough story, but this cool-headed and slick thriller provides a gut-churningly compelling backdrop to a look at our darker sides.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "27,Call Me by Your Name,2017,94,Luca Guadagnino,\"Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar\",\"Call Me by Your Name offers a melancholy, powerfully affecting portrait of first love, empathetically acted by Timothée Chalamet and Armie Hammer.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "28,The Power of the Dog,2021,94,Jane Campion,\"Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons, Kodi Smit-McPhee\",\"Brought to life by a stellar ensemble led by Benedict Cumberbatch, The Power of the Dog reaffirms writer-director Jane Campion as one of her generation's finest filmmakers.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "29,Carol,2015,94,Todd Haynes,\"Cate Blanchett, Rooney Mara, Sarah Paulson, Jake Lacy\",\"Shaped by Todd Haynes' deft direction and powered by a strong cast led by Cate Blanchett and Rooney Mara, Carol lives up to its groundbreaking source material.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "30,Moneyball,2011,94,Bennett Miller,\"Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright\",\"Director Bennett Miller, along with Brad Pitt and Jonah Hill, take a niche subject and turn it into a sharp, funny, and touching portrait worthy of baseball lore.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "31,The Lost Daughter,2021,94,Maggie Gyllenhaal,\"Olivia Colman, Dakota Johnson, Peter Sarsgaard, Jessie Buckley\",\"A strikingly assured debut for writer-director Maggie Gyllenhaal, The Lost Daughter unites a brilliant cast in service of a daringly ambitious story.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "32,The Sea Beast,2022,94,Chris Williams,\"Karl Urban, Zaris-Angel Hator, Jared Harris, Dan Stevens\",\"An original animated tale that's often as daring as its characters, The Sea Beast sends audiences on a voyage well worth taking.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "33,Private Life,2018,94,Tamara Jenkins,\"Paul Giamatti, Kathryn Hahn, Kayli Carter, Molly Shannon\",Private Life uses one couple's bumpy journey to take an affecting look at an easily identifiable - and too rarely dramatized - rite of adult passage.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "34,Enola Holmes 2,2022,94,Harry Bradbeer,\"Millie Bobby Brown, Henry Cavill, Helena Bonham Carter, David Thewlis\",\"Building on its predecessor with boisterously entertaining flair, Enola Holmes 2 solves the mystery of how to make a satisfying sequel -- and makes it look positively elementary.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "35,The Birds,1963,94,Alfred Hitchcock,\"Rod Taylor, Tippi Hedren, Suzanne Pleshette, Jessica Tandy\",\"Proving once again that build-up is the key to suspense, Alfred Hitchcock successfully turned birds into some of the most terrifying villains in horror history.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "36,Captain Phillips,2013,93,Paul Greengrass,\"Tom Hanks, Catherine Keener, Barkhad Abdi, Barkhad Abdirahman\",\"Smart, powerfully acted, and incredibly intense, Captain Phillips offers filmgoers a Hollywood biopic done right -- and offers Tom Hanks a showcase for yet another brilliant performance.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "37,Spider-Man 2,2004,93,Sam Raimi,\"Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina\",\"Boasting an entertaining villain and deeper emotional focus, this is a nimble sequel that improves upon the original.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "38,The Lord of the Rings: The Return of the King,2003,93,Peter Jackson,\"Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen\",\"Visually breathtaking and emotionally powerful,  The Lord of the Rings - The Return of the King is a moving and satisfying conclusion to a great trilogy.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "39,The Meyerowitz Stories (New and Selected),2017,93,Noah Baumbach,\"Adam Sandler, Ben Stiller, Dustin Hoffman, Emma Thompson\",The Meyerowitz Stories (New and Selected) observes the family dynamic through writer-director Noah Baumbach's bittersweet lens and the impressive efforts of a remarkable cast.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "40,Hustle,2022,93,Jeremiah Zagar,\"Adam Sandler, Juancho Hernangomez, Queen Latifah, Ben Foster\",\"Hustle doesn't have any fancy moves, but it doesn't need them -- Adam Sandler's everyman charm makes this easy layup fun to watch.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "41,Cam,2018,93,Daniel Goldhaber,\"Madeline Brewer, Patch Darragh, Melora Walters, Devin Druid\",\"Smart and suspenseful, CAM is a techno-thriller that's far more than the sum of its salacious parts -- and an outstanding showcase for Madeline Brewer in the leading role.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "42,Hush,2016,93,Mike Flanagan,\"John Gallagher Jr., Kate Siegel, Michael Trucco, Samantha Sloyan\",Hush navigates the bloody waters of home invasion thrillers and incisive slashers for a contemporary horror puree.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "43,Sand Storm,2016,93,Elite Zexer,\"Lamis Ammar, Ruba Blal, Hitham Omari, Khadija Al Akel\",Sand Storm marks an impressive first feature for debuting writer-director Elite Zexer that offers a perceptive -- and crucial -- look at patriarchal traditions.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "44,Glass Onion: A Knives Out Mystery,2022,92,Rian Johnson,\"Daniel Craig, Ed Norton, Dave Bautista, Kate Hudson\",Glass Onion: A Knives Out Mystery brings back Benoit Blanc for another wildly entertaining mystery rounded out by an outstanding ensemble cast.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "45,Skyfall,2012,92,Sam Mendes,\"Daniel Craig, Judi Dench, Javier Bardem, Ralph Fiennes\",\"Sam Mendes brings Bond surging back with a smart, sexy, riveting action thriller that qualifies as one of the best 007 films to date.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "46,Da 5 Bloods,2020,92,Spike Lee,\"Delroy Lindo, Jonathan Majors, Clarke Peters, Norm Lewis\",\"Fierce energy and ambition course through Da 5 Bloods, coming together to fuel one of Spike Lee's most urgent and impactful films.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "47,American Hustle,2013,92,David O. Russell,\"Christian Bale, Bradley Cooper, Jeremy Renner, Amy Adams\",\"Riotously funny and impeccably cast, American Hustle compensates for its flaws with unbridled energy and some of David O. Russell's most irrepressibly vibrant direction.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "48,The Bourne Ultimatum,2007,92,Paul Greengrass,\"Matt Damon, Julia Stiles, Joan Allen, David Strathairn\",\"The Bourne Ultimatum is an intelligent, finely tuned non-stop thrill ride. Another strong performance from Matt Damon and sharp camerawork from Paul Greengrass make this the finest installment of the Bourne trilogy.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "49,El Camino: A Breaking Bad Movie,2019,92,Vince Gilligan,\"Aaron Paul, Matt L. Jones, Charles Baker\",\"Entertaining if not essential, El Camino adds a satisfying belated coda to the Breaking Bad story -- led by a career-best performance from Aaron Paul.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "50,We the Animals,2018,92,Jeremiah Zagar,\"Raúl Castillo, Sheila Vand, Evan Rosado, Isaiah Kristian\",\"Dreamlike and haunting, We the Animals approaches the coming-of-age odyssey with a uniquely documentarian eye.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "51,The Little Prince,2015,92,Mark Osborne,\"Jeff Bridges, Rachel McAdams, James Franco, Marion Cotillard\",\"Beautifully animated and faithful to the spirit of its classic source material, The Little Prince is a family-friendly treat that anchors thrilling visuals with a satisfying story.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "52,Roald Dahl's Matilda the Musical,2022,92,Matthew Warchus,\"Alisha Weir, Emma Thompson, Lashana Lynch, Stephen Graham\",\"Roald Dahl's Matilda the Musical brings the classic story back to the screen with a delightful Emma Thompson, dazzling dancing, and a suitably irascible take on the source material.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "53,Rocky,1976,92,John G. Avildsen,\"Sylvester Stallone, Talia Shire, Burgess Meredith, Burt Young\",\"This story of a down-on-his-luck boxer is thoroughly predictable, but Sylvester Stallone's script and stunning performance in the title role brush aside complaints.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "54,Set It Up,2018,92,Claire Scanlon,\"Zoey Deutch, Glen Powell, Lucy Liu, Taye Diggs\",\"Set It Up follows the long-established outlines of the rom-com template -- and in the process, proves there's still substantial pleasure to be wrought from familiar formulas.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "55,Parenthood,1989,92,Ron Howard,\"Steve Martin, Mary Steenburgen, Dianne Wiest, Jason Robards\",\"Bolstered by a delightful cast, Parenthood is a funny and thoughtfully crafted look at the best and worst moments of family life that resonates broadly.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "56,Mindhorn,2016,92,Sean Foley,\"Julian Barratt, Essie Davis, Andrea Riseborough, Harriet Walter\",\"Led by a committed performance from Julian Barratt, Mindhorn offers audiences a laugh-out-loud comedy whose sublime silliness is enhanced by its more thoughtful moments.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "57,1922,2017,92,Zak Hilditch,\"Thomas Jane, Neal McDonough, Molly Parker, Brian d'Arcy James\",\"Thanks to director Zak Hilditch's patient storytelling and strong work from lead Thomas Jane, 1922 ranks among the more satisfying Stephen King adaptations.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "58,Uncorked,2020,92,Prentice Penny,\"Mamoudou Athie, Courtney B. Vance, Niecy Nash, Sasha Compère\",\"Like a good wine, once you let Uncorked breathe, its heartfelt tenderness will yield a sweet time.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "59,La La Land,2016,91,Damien Chazelle,\"Ryan Gosling, Emma Stone, John Legend, Rosemarie DeWitt\",\"La La Land breathes new life into a bygone genre with thrillingly assured direction, powerful performances, and an irresistible excess of heart.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "60,Phantom Thread,2017,91,Paul Thomas Anderson,\"Daniel Day-Lewis, Vicky Krieps, Lesley Manville, Camilla Rutherford\",\"Phantom Thread's finely woven narrative is filled out nicely by humor, intoxicating romantic tension, and yet another impressively committed performance from Daniel Day-Lewis.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "61,The Nice Guys,2016,91,Shane Black,\"Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer\",The Nice Guys hearkens back to the buddy comedies of a bygone era while adding something extra courtesy of a knowing script and the irresistible chemistry of its leads.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "62,Zero Dark Thirty,2012,91,Kathryn Bigelow,\"Jessica Chastain, Jason Clarke, Joel Edgerton, Jennifer Ehle\",\"Gripping, suspenseful, and brilliantly crafted, Zero Dark Thirty dramatizes the hunt for Osama bin Laden with intelligence and an eye for detail.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "63,The Lord of the Rings: The Fellowship of the Ring,2001,91,Peter Jackson,\"Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen\",\"Full of eye-popping special effects, and featuring a pitch-perfect cast, The Lord of the Rings: The Fellowship of the Ring brings J.R.R. Tolkien's classic to vivid life.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "64,Philomena,2013,91,Stephen Frears,\"Judi Dench, Steve Coogan, Michelle Fairley, Barbara Jefford\",\"Based on a powerful true story and led by note-perfect performances from Judi Dench and Steve Coogan, Philomena offers a profoundly affecting drama for adult filmgoers of all ages.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "65,The White Tiger,2021,91,Ramin Bahrani,\"Adarsh Gourav, Rajkummar Rao, Priyanka Chopra Jonas, Vedant Sinha\",\"Well-acted and beautifully made, The White Tiger distills the strengths of its source material into a grimly compelling drama.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "66,Beasts of No Nation,2015,91,Cary Joji Fukunaga,\"Idris Elba, Abraham Attah, Opeyemi Fagbohungbe, Kurt Egyiawan\",\"Beasts of No Nation finds writer-director Cary Fukunaga working with a talented cast to offer a sobering, uncompromising, yet still somehow hopeful picture of war's human cost.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "67,High Flying Bird,2019,91,Steven Soderbergh,\"André Holland, Zazie Beetz, Bill Duke, Sonja Sohn\",High Flying Bird takes a thoughtful and engrossing look at professional sports that sees Steven Soderbergh continuing to test the limits of new filmmaking technology.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "68,Apollo 10 1/2: A Space Age Childhood,2022,91,Richard Linklater,\"Jack Black, Bill Wise, Lee Eddy, Milo Coy\",\"The sweetly nostalgic Apollo 10 1/2: A Space Age Childhood finds Richard Linklater reusing visual and thematic ingredients in a deeply personal, freshly inspired way.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "69,Happy as Lazzaro,2018,91,Alice Rohrwacher,\"Adriano Tardiolo, Alba Rohrwacher, Agnese Graziani, Tommaso Ragno\",Happy as Lazzaro uses a friendship's ups and downs as a satisfyingly expansive canvas for a picture rich with thematic and cinematic depth.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "70,Full Metal Jacket,1987,91,Stanley Kubrick,\"Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey\",\"Intense, tightly constructed, and darkly comic at times, Stanley Kubrick's Full Metal Jacket may not boast the most original of themes, but it is exceedingly effective at communicating them.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "71,Gerald's Game,2017,91,Mike Flanagan,\"Carla Gugino, Bruce Greenwood, Henry Thomas, Carel Struycken\",Carla Gugino carries Gerald's Game's small-scale suspense with a career-defining performance.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "72,When Harry Met Sally...,1989,91,Rob Reiner,\"Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby\",\"Rob Reiner's touching, funny film set a new standard for romantic comedies, and he was ably abetted by the sharp interplay between Billy Crystal and Meg Ryan.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "73,The Willoughbys,2020,91,Kris Pearn,\"Will Forte, Maya Rudolph, Alessia Cara, Terry Crews\",\"An appealing animated adventure whose silliness is anchored in genuine emotion, The Willoughbys offers fanciful fun the entire family can enjoy.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "74,National Lampoon's Animal House,1978,91,John Landis,\"John Belushi, Kevin Bacon, Donald Sutherland, Karen Allen\",\"The talents of director John Landis and Saturday Night Live's irrepressible John Belushi conspired to create a rambunctious, subversive college comedy that continues to resonate.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "75,Up in the Air,2009,90,Jason Reitman,\"George Clooney, Vera Farmiga, Anna Kendrick, Jason Bateman\",\"Led by charismatic performances by its three leads, director Jason Reitman delivers a smart blend of humor and emotion with just enough edge for mainstream audiences.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "76,The Imitation Game,2014,90,Morten Tyldum,\"Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear\",\"With an outstanding starring performance from Benedict Cumberbatch illuminating its fact-based story, The Imitation Game serves as an eminently well-made entry in the \"\"prestige biopic\"\" genre.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "77,Minority Report,2002,90,Steven Spielberg,\"Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow\",\"Thought-provoking and visceral, Steven Spielberg successfully combines high concept ideas and high octane action in this fast and febrile sci-fi thriller.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "78,Spider-Man,2002,90,Sam Raimi,\"Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco\",\"Not only does Spider-Man provide a good dose of web-swinging fun, it also has a heart, thanks to the combined charms of director Sam Raimi and star Tobey Maguire.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "79,The Two Popes,2019,90,Fernando Meirelles,\"Jonathan Pryce, Anthony Hopkins, Juan Minujín, Sidney Cole\",\"Led by outstanding performances from its well-matched leads, The Two Popes draws absorbing drama from a pivotal moment in modern organized religion.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "80,The Kindergarten Teacher,2018,90,Sara Colangelo,\"Maggie Gyllenhaal, Gael García Bernal, Michael Chernus, Anna Baryshnikov\",\"Elevated by a bravura performance from Maggie Gyllenhaal, The Kindergarten Teacher is one American remake that retains its impact the second time around.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "81,Reservoir Dogs,1992,90,Quentin Tarantino,\"Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn\",\"Thrumming with intelligence and energy, Reservoir Dogs opens Quentin Tarantino's filmmaking career with hard-hitting style.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "82,On Body and Soul,2017,90,Ildikó Enyedi,\"Géza Morcsányi, Alexandra Borbély, Zoltán Schneider, Ervin Nagy\",\"Tender performances and a strong sense of style combine to create an eccentric, dreamy portrait of love and loneliness in On Body and Soul.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "83,The Bridges of Madison County,1995,90,Clint Eastwood,\"Clint Eastwood, Meryl Streep, Annie Corley, Victor Slezak\",\"Sentimental, slow, schmaltzy, and very satisfying, The Bridges of Madison County finds Clint Eastwood adapting a bestseller with heft, wit, and grace.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "84,The Trial of the Chicago 7,2020,89,Aaron Sorkin,\"Eddie Redmayne, Alex Sharp, Sacha Baron Cohen, Jeremy Strong\",\"An actors' showcase enlivened by its topical fact-based story, The Trial of the Chicago 7 plays squarely -- and compellingly -- to Aaron Sorkin's strengths.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "85,Zombieland,2009,89,Ruben Fleischer,\"Woody Harrelson, Jesse Eisenberg, Emma Stone, Abigail Breslin\",\"Wickedly funny and featuring plenty of gore, Zombieland is proof that the zombie subgenre is far from dead.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "86,The Ballad of Buster Scruggs,2018,89,Joel Coen,\"Tim Blake Nelson, Willie Watson, David Krumholtz, James Franco\",The Ballad of Buster Scruggs avoids anthology pitfalls with a consistent collection tied together by the Coen brothers' signature blend of dark drama and black humor.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "87,All Quiet on the Western Front,2022,90,Edward Berger,\"Felix Kammerer, Albrecht Schuch, Aaron Hilmer, Moritz Klaus\",\"Both timely and timeless, All Quiet on the Western Front retains the power of its classic source material by focusing on the futility of war.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "88,Always Be My Maybe,2019,89,Nahnatchka Khan,\"Ali Wong, Randall Park, Keanu Reeves, Michelle Buteau\",\"Carried by the infectious charms of Ali Wong and Randall Park, Always Be My Maybe takes familiar rom-com beats and cleverly layers in smart social commentary to find its own sweet groove.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "89,I Am Mother,2019,89,Grant Sputore,\"Hilary Swank, Clara Rugaard, Rose Byrne, Tahlia Sturzaker\",\"Suspenseful, well-acted, and intelligent, I Am Mother is an ambitious sci-fi story that largely achieves its impressive aims.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "90,I Don't Feel at Home in This World Anymore,2017,89,Macon Blair,\"Melanie Lynskey, Elijah Wood, David Yow, Jane Levy\",\"I don't feel at home in this world anymore. transcends its unwieldy title to offer timely, intoxicatingly dark observations on gender dynamics and social norms in modern America.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "91,Paddleton,2019,89,Alexandre Lehmann,\"Mark Duplass, Ray Romano, Marguerite Moreau, Christine Woods\",\"It takes its time coming together, but the quietly effective Paddleton pulls off a tricky tonal balancing act, thanks largely to the strengths of its well-chosen leads.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "92,Rango,2011,88,Gore Verbinski,\"Johnny Depp, Isla Fisher, Abigail Breslin, Ned Beatty\",\"Rango is a smart, giddily creative burst of beautifully animated entertainment, and Johnny Depp gives a colorful vocal performance as a household pet in an unfamiliar world.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "93,The Bad Guys,2022,88,Pierre Perifel,\"Sam Rockwell, Zazie Beetz, Marc Maron, Awkwafina\",\"Fast-paced, funny, and full of colorful visual appeal, The Bad Guys is good news for audiences seeking options the whole family can enjoy.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "94,Dope,2015,88,Rick Famuyiwa,\"Shameik Moore, Tony Revolori, Kiersey Clemons, Kimberly Elise\",\"Featuring a starmaking performance from Shameik Moore and a refreshingly original point of view from writer-director Rick Famuyiwa, Dope is smart, insightful entertainment.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "95,Oxygen,2021,88,Alexandre Aja,\"Mélanie Laurent, Mathieu Amalric, Malik Zidi, Marc Saez\",\"Oxygen gets the white-knuckle maximum out of its claustrophobic setting, with director Alexandre Aja and star Mélanie Laurent making this a must-watch thriller for sci-fi fans.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "96,Fear Street Part Three: 1666,2021,88,Leigh Janiak,\"Kiana Madeira, Ashley Zukerman, Gillian Jacobs, Olivia Welch\",Fear Street Part Three: 1666 sends the slasher series back in time for a trilogy-concluding installment that caps things off on a screaming high note.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "97,Donnie Brasco,1997,88,Mike Newell,\"Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby\",\"A stark, nuanced portrait of life in organized crime, bolstered by strong performances from Al Pacino and Johnny Depp.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "98,Inception,2010,87,Christopher Nolan,\"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy\",\"Smart, innovative, and thrilling, Inception is that rare summer blockbuster that succeeds viscerally as well as intellectually.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "99,American Beauty,1999,87,Sam Mendes,\"Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley\",\"Flawlessly cast and brimming with dark, acid wit, American Beauty is a smart, provocative high point of late '90s mainstream Hollywood film.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  },
+  {
+    "Rank": "100,Kung Fu Panda,2008,87,John Stevenson,\"Jack Black, Angelina Jolie, Jackie Chan, David Cross\",\"Kung Fu Panda has a familiar message, but the pleasing mix of humor, swift martial arts action, and colorful animation makes for winning Summer entertainment.",
+    "MovieTitle": "",
+    "Year": "",
+    "Score": "",
+    "Director": "",
+    "Cast": "",
+    "Critics Consensus": ""
+  }
 ]
