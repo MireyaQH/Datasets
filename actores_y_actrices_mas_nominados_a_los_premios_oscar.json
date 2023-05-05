@@ -1,0 +1,981 @@
+﻿{
+    "Url": "www.epdata.es/actores-mas-nominados-premios-oscar/5bf60546-24a2-4a3d-9243-486d419d5d5d",
+    "Respuesta": {
+        "Id": "5bf60546-24a2-4a3d-9243-486d419d5d5d",
+        "Url": "www.epdata.es/actores-mas-nominados-premios-oscar/5bf60546-24a2-4a3d-9243-486d419d5d5d",
+        "Titulo": "Actores y actrices más nominados a los Premios Oscar",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Nominaciones",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ampas",
+                    "Clasificacion": null,
+                    "Unidad": "Nº",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Al Pacino",
+                            "Valor": 9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Albert Finney",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Amy Adams",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Anne Bancroft",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Anthony Hopkins",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Arthur Kennedy",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Audrey Hepburn",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Bette Davis",
+                            "Valor": 10,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Cate Blanchett",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Daniel Day-Lewis",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Deborah Kerr",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Denzel Washington",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Dustin Hoffman",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Elizabeth Taylor",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Ellen Burstyn",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Frances Mcdormand",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Fredric March",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Gary Cooper",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Gene Hackman",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Geraldine Page",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Glenn Close",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Greer Garson",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Gregory Peck",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Ingrid Bergman",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Irene Dunne",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jack Lemmon",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jack Nicholson",
+                            "Valor": 12,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "James Stewart",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jane Fonda",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jeff Bridges",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jennifer Jones",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jessica Lange",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Judi Dench",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Julianne Moore",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Kate Winslet",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Katharine Hepburn",
+                            "Valor": 12,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Laurence Olivier",
+                            "Valor": 10,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Leonardo Dicaprio",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Maggie Smith",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Marlon Brando",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Meryl Streep",
+                            "Valor": 21,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Michael Caine",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Morgan Freeman",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Norma Shearer",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Olivia De Havilland",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Paul Newman",
+                            "Valor": 9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Peter O'Toole",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Richard Burton",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Robert De Niro",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Robert Duvall",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Sean Penn",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Shirley Maclaine",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Sissy Spacek",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Spencer Tracy",
+                            "Valor": 9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Susan Hayward",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Susan Sarandon",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Thelma Ritter",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Tom Hanks",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Vanessa Redgrave",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 1,
+                    "Nombre": "Premios",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ampas",
+                    "Clasificacion": null,
+                    "Unidad": "Nº",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Al Pacino",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Albert Finney",
+                            "Valor": 0,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Amy Adams",
+                            "Valor": 0,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Anne Bancroft",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Anthony Hopkins",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Arthur Kennedy",
+                            "Valor": 0,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Audrey Hepburn",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Bette Davis",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Cate Blanchett",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Daniel Day-Lewis",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Deborah Kerr",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Denzel Washington",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Dustin Hoffman",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Elizabeth Taylor",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Ellen Burstyn",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Frances Mcdormand",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Fredric March",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Gary Cooper",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Gene Hackman",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Geraldine Page",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Glenn Close",
+                            "Valor": 0,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Greer Garson",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Gregory Peck",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Ingrid Bergman",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Irene Dunne",
+                            "Valor": 0,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jack Lemmon",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jack Nicholson",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "James Stewart",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jane Fonda",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jeff Bridges",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jennifer Jones",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Jessica Lange",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Judi Dench",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Julianne Moore",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Kate Winslet",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Katharine Hepburn",
+                            "Valor": 4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Laurence Olivier",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Leonardo Dicaprio",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Maggie Smith",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Marlon Brando",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Meryl Streep",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Michael Caine",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Morgan Freeman",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Norma Shearer",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Olivia De Havilland",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Paul Newman",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Peter O'Toole",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Richard Burton",
+                            "Valor": 0,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Robert De Niro",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Robert Duvall",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Sean Penn",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Shirley Maclaine",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Sissy Spacek",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Spencer Tracy",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Susan Hayward",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Susan Sarandon",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Thelma Ritter",
+                            "Valor": 0,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Tom Hanks",
+                            "Valor": 2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Año",
+                            "Parametro": "Vanessa Redgrave",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
