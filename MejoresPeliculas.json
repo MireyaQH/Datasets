@@ -1,0 +1,902 @@
+[
+  {
+    "": "0,The Godfather,1972,175,9.2,\"1,667,868\",134.97",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "1,The Shawshank Redemption,1994,142,9.3,\"2,410,575\",28.34",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "2,Schindler's List,1993,195,8.9,\"1,242,057\",96.90",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "3,Raging Bull,1980,129,8.2,\"328,641\",23.38",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "4,Casablanca,1942,102,8.5,\"532,397\",1.02",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "5,Citizen Kane,1941,119,8.3,\"414,105\",1.59",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "6,Gone with the Wind,1939,238,8.1,\"295,605\",198.68",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "7,The Wizard of Oz,1939,102,8,\"375,435\",2.08",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "8,One Flew Over the Cuckoo's Nest,1975,133,8.7,\"937,216\",112.00",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "9,Lawrence of Arabia,1962,228,8.3,\"273,727\",44.82",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "10,Vertigo,1958,128,8.3,\"372,991\",3.20",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "11,Psycho,1960,109,8.5,\"618,528\",32.00",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "12,The Godfather: Part II,1974,202,9,\"1,158,763\",57.30",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "13,On the Waterfront,1954,108,8.1,\"145,132\",9.60",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "14,Sunset Blvd.,1950,110,8.4,\"206,285\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "15,Forrest Gump,1994,142,8.8,\"1,862,340\",330.25",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "16,The Sound of Music,1965,172,8,\"211,417\",163.21",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "17,12 Angry Men,1957,96,9,\"710,362\",4.36",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "18,West Side Story,1961,153,7.5,\"99,708\",43.66",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "19,Star Wars: Episode IV - A New Hope,1977,121,8.6,\"1,255,811\",322.74",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "20,2001: A Space Odyssey,1968,149,8.3,\"617,167\",56.95",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "21,E.T. the Extra-Terrestrial,1982,115,7.8,\"379,818\",435.11",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "22,The Silence of the Lambs,1991,118,8.6,\"1,305,188\",130.74",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "23,Chinatown,1974,130,8.2,\"301,963\",8.49",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "24,The Bridge on the River Kwai,1957,161,8.1,\"207,463\",44.91",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "25,Singin' in the Rain,1952,103,8.3,\"224,087\",8.82",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "26,It's a Wonderful Life,1946,130,8.6,\"414,116\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "27,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,8.4,\"459,193\",0.28",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "28,Some Like It Hot,1959,121,8.2,\"248,979\",25.00",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "29,Ben-Hur,1959,212,8.1,\"223,667\",74.70",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "30,Apocalypse Now,1979,147,8.4,\"619,696\",83.47",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "31,Amadeus,1984,160,8.3,\"376,325\",51.97",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "32,The Lord of the Rings: The Return of the King,2003,201,8.9,\"1,679,792\",377.85",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "33,Gladiator,2000,155,8.5,\"1,373,645\",187.71",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "34,Titanic,1997,194,7.8,\"1,074,677\",659.33",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "35,From Here to Eternity,1953,118,7.6,\"44,267\",30.50",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "36,Saving Private Ryan,1998,169,8.6,\"1,269,021\",216.54",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "37,Unforgiven,1992,130,8.2,\"384,036\",101.16",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "38,Indiana Jones and the Raiders of the Lost Ark,1981,115,8.4,\"901,570\",248.16",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "39,Rocky,1976,120,8.1,\"530,654\",117.24",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "40,A Streetcar Named Desire,1951,122,8,\"100,929\",8.00",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "41,The Philadelphia Story,1940,112,7.9,\"64,819\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "42,To Kill a Mockingbird,1962,129,8.3,\"298,661\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "43,An American in Paris,1951,114,7.2,\"31,222\",4.50",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "44,The Best Years of Our Lives,1946,170,8.1,\"58,356\",23.65",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "45,My Fair Lady,1964,170,7.8,\"88,799\",72.00",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "46,A Clockwork Orange,1971,136,8.3,\"772,642\",6.21",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "47,Doctor Zhivago,1965,197,8,\"71,355\",111.72",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "48,The Searchers,1956,119,7.9,\"82,238\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "49,Jaws,1975,124,8,\"553,072\",260.00",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "50,Patton,1970,172,7.9,\"95,174\",61.70",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "51,Butch Cassidy and the Sundance Kid,1969,110,8,\"204,623\",102.31",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "52,The Treasure of the Sierra Madre,1948,126,8.2,\"116,762\",5.01",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "53,\"The Good, the Bad and the Ugly\",1966,178,8.8,\"703,479\",6.10",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "54,The Apartment,1960,125,8.3,\"168,298\",18.60",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "55,Platoon,1986,120,8.1,\"388,532\",138.53",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "56,High Noon,1952,85,8,\"98,979\",9.45",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "57,Braveheart,1995,178,8.3,\"976,103\",75.60",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "58,Dances with Wolves,1990,181,8,\"246,361\",184.21",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "59,Jurassic Park,1993,127,8.1,\"889,876\",402.45",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "60,The Exorcist,1973,122,8,\"368,603\",232.91",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "61,The Pianist,2002,150,8.5,\"753,247\",32.57",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "62,Goodfellas,1990,146,8.7,\"1,048,196\",46.84",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "63,The Deer Hunter,1978,183,8.1,\"317,920\",48.98",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "64,All Quiet on the Western Front,1930,152,8.1,\"58,093\",3.27",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "65,Bonnie and Clyde,1967,111,7.8,\"104,752\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "66,The French Connection,1971,104,7.7,\"113,298\",15.63",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "67,City Lights,1931,87,8.5,\"171,953\",0.02",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "68,It Happened One Night,1934,105,8.1,\"96,430\",4.36",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "69,A Place in the Sun,1951,122,7.8,\"20,721\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "70,Midnight Cowboy,1969,113,7.8,\"103,229\",44.79",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "71,Mr. Smith Goes to Washington,1939,129,8.1,\"109,129\",9.60",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "72,Rain Man,1988,133,8,\"482,164\",178.80",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "73,Annie Hall,1977,93,8,\"255,035\",39.20",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "74,Fargo,1996,98,8.1,\"632,090\",24.61",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "75,Giant,1956,201,7.6,\"34,944\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "76,Shane,1953,118,7.6,\"37,972\",20.00",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "77,The Grapes of Wrath,1940,129,8.1,\"86,714\",0.06",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "78,The Green Mile,1999,189,8.6,\"1,179,670\",136.80",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "79,Close Encounters of the Third Kind,1977,138,7.6,\"188,661\",132.09",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "80,Nashville,1975,160,7.7,\"24,395\",14.82",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "81,Network,1976,121,8.1,\"148,131\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "82,The Graduate,1967,106,8,\"257,655\",104.95",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "83,American Graffiti,1973,110,7.4,\"83,737\",115.00",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "84,Pulp Fiction,1994,154,8.9,\"1,871,659\",107.93",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "85,Terms of Endearment,1983,132,7.4,\"56,512\",108.42",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "86,Good Will Hunting,1997,126,8.3,\"884,168\",138.43",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "87,The African Queen,1951,105,7.8,\"72,884\",0.54",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "88,Stagecoach,1939,96,7.9,\"44,998\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "89,Mutiny on the Bounty,1935,132,7.7,\"21,307\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "90,The Great Dictator,1940,125,8.4,\"207,789\",0.29",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "91,Double Indemnity,1944,107,8.3,\"146,783\",5.72",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "92,The Maltese Falcon,1941,100,8,\"151,061\",2.11",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "93,Wuthering Heights,1939,104,7.6,\"16,901\",0.76",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "94,Taxi Driver,1976,114,8.3,\"745,272\",28.26",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "95,Rear Window,1954,112,8.5,\"454,266\",36.76",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "96,The Third Man,1949,93,8.1,\"161,967\",0.45",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "97,Rebel Without a Cause,1955,111,7.7,\"85,254\",****",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "98,North by Northwest,1959,136,8.3,\"305,149\",13.28",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  },
+  {
+    "": "99,Yankee Doodle Dandy,1942,126,7.7,\"14,392\",11.80",
+    "Movie_Name": "",
+    "Year_Released": "",
+    "Runtime_(min)": "",
+    "IMDB_Rating": "",
+    "Votes": "",
+    "Gross_ (Million $)": ""
+  }
+]
